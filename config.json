@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvalculate",
+        "uuid": 21903927,
+        "checksum": "9qkcsf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
